@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration Form</title>
+    </head>
+    <body>
+        <h1>Registration Form</h1>
+        <form>
+        <label for="A">Student Name:</label><input type="text" id="A" name="fname" size="20" placeholder="Ener your Name">
+        <br><br>
+        <label for="B">Student Id:</label><input type="number" id="B"size=20 placeholder="Enter your Id">
+        <br><br>
+        <label for="C">Email:</label><input type="email" id="C" size="20" placeholder="Enter your email" required>
+        <br><br>
+        <label for="D">UserName:</label><input type="text" id="D" size="20" placeholder="Enter a UserName" required>
+        <br><br>
+        <label for="E">Password:</label><input type="password" id="E" size="20" placeholder="Enter your password">
+        <br><br>
+        <label for="F">Date of Birthday:</label><input type="date" id="F" size="20" placeholder="Enter your birthday">
+        <br><br>
+        Gender: <br>
+        <input type="radio" name="Gender" value="M">Male <br>
+        <input type="radio" name="Gender" value="F">Female <br>
+        Language: <br>
+        <input type="checkbox" name="Language" value="B">Bangla <br>
+        <input type="checkbox" name="Language" value="E">English <br>
+        Country: <br>
+        <select name="Country">
+            <option>(Please select your country)</option>
+            <option value="B">Bangladesh</option>
+            <option value="I">India</option>
+        </select> <br><br>
+        <level for="G">Address:</level><br>
+        <textarea rows="5" cols="30" id="G" placeholder="Enter your Address"></textarea><br><br>
+        Attach your Documents: <br>
+        <input type="file" name="Documents"><br><br>
+        <input type="submit" value="submit">
+        <input type="reset" value="reset">
+        </form>
+    </body>
+</html>
