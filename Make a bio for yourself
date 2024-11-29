@@ -1,0 +1,72 @@
+<head>
+
+    <style>
+        body {
+            background-color: rgb(252, 248, 248);
+            color: rgb(255, 0, 0);
+            font-family: Arial, sans-serif;
+        }
+
+        h1, h2, h3 {
+            color: rgb(13, 12, 12);
+        }
+
+        table {
+            background-color: #1b3395;
+            color: black;
+            font-style: italic;
+        }
+
+        th, td {
+            color: black;
+        }
+
+        a {
+            color: rgb(1, 1, 12);
+        }
+
+       
+        ul, li {
+            color: black;
+        }
+    </style>
+
+    <div class="box" align="center">
+
+        <h1>
+            Welcome to Hazrat Ali's Bio
+        </h1>
+
+    </div>
+
+   
+    <img src="c:\Users\ASUS\Downloads\WhatsApp Image 2024-09-27 at 12.11.52 PM.jpeg" width="200" height="150" align="left" style="margin-right: 15px;">
+
+    <p>
+        <h2>About me:</h2>
+        Hello! I am Hazrat Ali, a student at Green University of Bangladesh, where I am committed to both my education and personal growth. I have a deep passion for football and actively engage in the sport while balancing my studies. My future goal is to excel in the field of IT, and I aspire to become an expert in the industry, making a meaningful impact. With my ambition and love for football.
+    </p>
+    
+    
+    <h3 style="margin-top: 50px;">Taken Courses in Fall 2024</h3>
+
+  
+
+    <h3>Contact Me:</h3>
+    <ul>
+        <li><a href="https://www.facebook.com/share/CBEu3tkm8QrfpCaK/?mibextid=qi2Omg" target="_blank" align="center">Facebook</a> </li>
+        <li><a href="https://www.instagram.com/it_s_hazrat_ali?igsh=OXlvNDBrZ3p2OGpq" target="_blank" align="center">Instagram</a></li>
+        <ul style="list-style-type: square;">
+            <li> <a href="hmhazrat Ali">Gmail</a></li>
+
+            <li><a href="https://github.com/hazratali1">Github</a></li>
+
+        </ul>
+
+    </ul>
+
+   
+
+</body>
+
+</html>
